@@ -12,4 +12,4 @@ asm_defines_gas.h
 .vscode/ipch/*
 .vscode/c_cpp_properties.json
 linker.list
-.travis_ci.yml
+.travis.yml
