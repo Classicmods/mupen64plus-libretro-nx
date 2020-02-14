@@ -495,6 +495,7 @@ else
    endif
 
    HAVE_PARALLEL_RSP = 1
+   HAVE_THR_AL = 1
    LLE = 1
    COREFLAGS += -DOS_WINDOWS -DMINGW
    CXXFLAGS += -fpermissive
